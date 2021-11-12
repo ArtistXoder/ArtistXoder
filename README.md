@@ -5,6 +5,4 @@
 - 📫 How to reach me  Find me on Github
 
 
-<!---
-https://github.com/ArtistXoder/MinecraftServer.git
---->
+
