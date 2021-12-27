@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on my project to help new people understand linux...
 - 📫 How to reach me  Find me on Github, Facebook, Twitter.
 
-![](https://komarev.com/ghpvc/artistxoder)
+![](https://komarev.com/ghpvc/?artistxoder&color=dc143c)
 
 
