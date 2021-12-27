@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning C++ Linux Kernal...
 - 💞️ I’m looking to collaborate on my project to help new people understand linux...
 - 📫 How to reach me  Find me on Github, Facebook, Twitter.
-- ![](https://komarev.com/ghpvc/?artistxoder&color=green)
+- ![](https://hit.yhype.me/github/profile?user_id=86270631)
+
