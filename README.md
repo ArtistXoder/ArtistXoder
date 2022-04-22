@@ -7,5 +7,6 @@
 - I love collecting game console. I got a Nintendo Switch Oled. An a Xbox Sereis S. An other console just ask UwU. 
 - Dream vacation
  
-*Asia   - China Shenzen, Seoul South Korea,
-*Europe - Prague Czech Repbuilc
+**Asia   - China Shenzen, Seoul South Korea,**
+
+**Europe - Prague Czech Repbuilc**
