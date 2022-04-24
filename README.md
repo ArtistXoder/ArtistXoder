@@ -1,11 +1,3 @@
-- Just a nerd. That is an Eagle Scout. One more thing I am an honor society student.
-  Working on going back to Taekwondo to get my Black Belt. Maybe College next hasn't been writing much code been pretty busy. 
-- learning more about how to code differently and think different is very important to me. 
-- I know how to code in bash HTML, and CSS, also know some search CEO. Love Wordpess. 
-- I am good at setting up domains to connect to the server. 
-- I am trying to learn how to code in Java, Ruby, and C++. I also really want to contribute to the Linux Kernal. 
-- I am not all just code. I write to writing a book too. I also love music from the 80s. Very interested in Quantum computers. An play with arduino. also making hardware is really fun to. Photography cool to. 
-- I love collecting game consoles. I got a Nintendo Switch Oled. An Xbox Series S. Another console just ask UwU. 
-- Dream vacation
-- Asia   - China Shenzen, Seoul South Korea,
-- Europe - Prague Czech Republic
+```
+![Visitor Count](https : //profile-counter.glitch.me/{artistxoder}/count.svg)
+```
